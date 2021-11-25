@@ -6,10 +6,10 @@ This Fan Duct for the Dragonfly BMO, is designed to improve the quality of PLA p
 
 ![](Images/Dragonfly_BMO_FanDuck-Front.png)
 
-I use Cura for slicing this moddel. In cura I use the Tree-Support. In STL folder you found my cura profile. This was used for Printing on my SOVOL SV01.  
+I use Cura for slicing this moddel. In cura I use the Tree-Support. In STL folder you found my cura profile (Sovol SV01 eSun ABS+ Fine.curaprofile). This was used for Printing on my SOVOL SV01.  
 ![](Images/Cura-Slice-Bottom.png)
 
 ![](Images/Cura-Slice-Top.png)
 
-I Printet a sample model in PLA https://www.thingiverse.com/thing:2306188 and think the result is exelent. I use Cura with speed of 200mm/s
+I Printet a sample model in PLA https://www.thingiverse.com/thing:2306188 and think the result is exelent. I use Cura with speed of 200mm/s. The Cura profil for that is "Voron 2 PLA+ Speed 200.curaprofile"
 ![](Images/Dino.jpg)
